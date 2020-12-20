@@ -1,0 +1,38 @@
+let productsDB = [
+  {
+    id: 1,
+    title: "Headphone",
+    desc: "usa Headphone , Bluetooth , Good sound",
+    size: "large",
+    imageUrl: "images/headphone.jpg",
+    qty: 1,
+    isMe: "N",
+  },
+  {
+    id: 2,
+    title: "Labtop",
+    desc: "Dell , Core i7 , Ram 16 GD , Hard 500 GD",
+    size: "small",
+    imageUrl: "images/lab.jpg",
+    qty: 1,
+    isMe: "N",
+  },
+  {
+    id: 3,
+    title: "Watch",
+    desc: "Jaban watch , Sport , Stopwatch , Alarm",
+    size: "medium",
+    imageUrl: "images/watch.jpg",
+    qty: 1,
+    isMe: "N",
+  },
+  {
+    id: 4,
+    title: "Glasses",
+    desc: "china glasses , Blue , Good matrial",
+    size: "large",
+    imageUrl: "images/glasses.jpg",
+    qty: 1,
+    isMe: "N",
+  },
+];
